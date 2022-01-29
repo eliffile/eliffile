@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliffile, retired started dabbling in python to combat my flailing memory.
+- 👋 Hi, I’m @eliffile, retired (68y)started dabbling in python to combat my flailing memory.
 - 👀 I’m interested in applications for visual stimulation for my grandkids.
 - 🌱 I’m currently learning PysimpleGUI which I find to be amazing.
 - 💞️ I’m not able to collaborate on on anything at the moment - still too new for me
